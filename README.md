@@ -1,2 +1,2 @@
 # nestjs-learning-repo
-Learn through implementation
+Learn through implementations
